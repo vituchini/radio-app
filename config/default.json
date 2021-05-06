@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "jwtSecret": "Makaranomabanana",
+  "mongoUrl": "mongodb+srv://user:coolpass@cluster0.e4p1s.mongodb.net/app?retryWrites=true&w=majority"
+}
